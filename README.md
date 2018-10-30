@@ -20,11 +20,12 @@
      2.  **top_3_profile**         ::  tells about the top_3 cycles profile which has maximum no. of days in it, for each off-value.
      3.  **total_days_in_dataset** ::  tells about the no. of days in the dataset.
      4.  **data_stories**          ::  gives an overview of the entire dataset, for each off-value, telling about the total energy consumption (in kw) & total active duration (in mins) for different weekdays, for each off-value.
-     5.  **insights**              ::  -- gives the detailed insights of the entire dataset, for each off- value telling about the information like Cycle Average Energy Consumption (in kw), Cycle Energy Peak Values (both Max & Min) (in kw), Cycle General Start & End Time, Cycle Average & Median Duration (in mins) for diff weekdays, for each off-value.                                        
-                                       -- If there are zero cycles then it also tells whether these are exact zero or adultered zero and also tells the following insights written above.
+     5.  **insights**              ::  
+        - gives the detailed insights of the entire dataset, for each off- value telling about the information like Cycle Average Energy Consumption (in kw), Cycle Energy Peak Values (both Max & Min) (in kw), Cycle General Start & End Time, Cycle Average & Median Duration (in mins) for diff weekdays, for each off-value.                                         
+         - If there are zero cycles then it also tells whether these are exact zero or adultered zero and also tells the following insights written above.
                                         
 
-	***NOTE:: All the above Outputs are passed by the Script in JSON.***
+***NOTE:: All the above Outputs are passed by the Script in JSON.***
 
 -------------------------------------------------------------------------------------------------------------------
 
