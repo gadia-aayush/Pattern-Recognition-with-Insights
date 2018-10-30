@@ -70,7 +70,7 @@ The below format must be followed for the successful running of the script:
 -------------------------------------------------------------------------------------------------------------------	
 
 ### **OUTPUT SAMPLE:**
-  -	Please refer the attached screenshots of the output for reference.
+  -	Please refer the Output Screenshots Folder.
   
 -------------------------------------------------------------------------------------------------------------------	
 
