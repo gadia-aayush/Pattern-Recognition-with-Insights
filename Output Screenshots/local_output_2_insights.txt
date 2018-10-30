@@ -1,0 +1,441 @@
+
+Cycles Profile-  {0: {0: 180}, 1: {0: 56, 1: 40, 2: 34, 3: 17, 4: 18, 5: 10, 6: 4, 7: 1}}
+
+Total No of Days in Dataset  179.98958333333334 days.
+
+
+
+----------------------------------------------------------------------
+-------------------------- OFF-VALUE  -13.12 -------------------------
+----------------------------------------------------------------------
+
+-------------------------- TOP 3 PROFILES -----------------------------
+
+
+----------------------------------------------------------------
+--No of Cycles- 0
+--Total Days when No of Cycles is  0 -  180
+
+--Weekday Profile- 
+ {'Monday': 26, 'Tuesday': 26, 'Wednesday': 26, 'Thursday': 26, 'Friday': 26, 'Saturday': 25, 'Sunday': 25}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  26 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  25
+Cycle Average Energy Consumption-  2350.0 kw
+Cycle Average Maximum Value-  88.0 kw
+Cycle Average Minimum Value-  0.0 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  26 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  25
+Cycle Average Energy Consumption-  2696.0 kw
+Cycle Average Maximum Value-  105.0 kw
+Cycle Average Minimum Value-  0.0 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  26 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  25
+Cycle Average Energy Consumption-  2365.0 kw
+Cycle Average Maximum Value-  102.0 kw
+Cycle Average Minimum Value-  1.0 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  26 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  25
+Cycle Average Energy Consumption-  2742.0 kw
+Cycle Average Maximum Value-  104.0 kw
+Cycle Average Minimum Value-  0.0 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  26 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  25
+Cycle Average Energy Consumption-  2303.0 kw
+Cycle Average Maximum Value-  96.0 kw
+Cycle Average Minimum Value-  0.0 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  25 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  24
+Cycle Average Energy Consumption-  385.0 kw
+Cycle Average Maximum Value-  28.0 kw
+Cycle Average Minimum Value-  0.0 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  25 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  24
+Cycle Average Energy Consumption-  152.0 kw
+Cycle Average Maximum Value-  12.0 kw
+Cycle Average Minimum Value-  0.0 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------------- OFF-VALUE  50.74 -------------------------
+----------------------------------------------------------------------
+
+-------------------------- TOP 3 PROFILES -----------------------------
+
+
+----------------------------------------------------------------
+--No of Cycles- 0
+--Total Days when No of Cycles is  0 -  56
+
+--Weekday Profile- 
+ {'Monday': 5, 'Tuesday': 1, 'Wednesday': 2, 'Thursday': 1, 'Friday': 3, 'Saturday': 19, 'Sunday': 25}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  5 days
+No. of Exact Zero Cycles-  4
+No. of Adultered Zero Cycles-  0
+Cycle Average Energy Consumption-  0 kw
+Cycle Average Maximum Value-  0 kw
+Cycle Average Minimum Value-  0 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  1 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  0
+Cycle Average Energy Consumption-  0 kw
+Cycle Average Maximum Value-  0 kw
+Cycle Average Minimum Value-  0 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  2 days
+No. of Exact Zero Cycles-  1
+No. of Adultered Zero Cycles-  0
+Cycle Average Energy Consumption-  0 kw
+Cycle Average Maximum Value-  0 kw
+Cycle Average Minimum Value-  0 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  1 days
+No. of Exact Zero Cycles-  0
+No. of Adultered Zero Cycles-  0
+Cycle Average Energy Consumption-  0 kw
+Cycle Average Maximum Value-  0 kw
+Cycle Average Minimum Value-  0 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  3 days
+No. of Exact Zero Cycles-  2
+No. of Adultered Zero Cycles-  0
+Cycle Average Energy Consumption-  0 kw
+Cycle Average Maximum Value-  0 kw
+Cycle Average Minimum Value-  0 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  19 days
+No. of Exact Zero Cycles-  18
+No. of Adultered Zero Cycles-  0
+Cycle Average Energy Consumption-  0 kw
+Cycle Average Maximum Value-  0 kw
+Cycle Average Minimum Value-  0 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  25 days
+No. of Exact Zero Cycles-  24
+No. of Adultered Zero Cycles-  0
+Cycle Average Energy Consumption-  0 kw
+Cycle Average Maximum Value-  0 kw
+Cycle Average Minimum Value-  0 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+----------------------------------------------------------------
+--No of Cycles- 1
+--Total Days when No of Cycles is  1 -  40
+
+--Weekday Profile- 
+ {'Monday': 7, 'Tuesday': 8, 'Wednesday': 6, 'Thursday': 5, 'Friday': 10, 'Saturday': 4, 'Sunday': 0}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  7 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  2196.52 kw
+Cycle General Start Time- 5:45
+Cycle General End Time  - 10:30
+Cycle Median Duration-   300.0 mins
+Cycle Average Duration-  377.1 mins
+Cycle Average Maximum Value-  102.39 kw
+Cycle Average Minimum Value-  59.66 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  8 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1758.8 kw
+Cycle General Start Time- 5:45
+Cycle General End Time  - 8:30
+Cycle Median Duration-   202.5 mins
+Cycle Average Duration-  300.0 mins
+Cycle Average Maximum Value-  101.71 kw
+Cycle Average Minimum Value-  58.17 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  6 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1512.5 kw
+Cycle General Start Time- 5:45
+Cycle General End Time  - 8:30
+Cycle Median Duration-   202.5 mins
+Cycle Average Duration-  259.95 mins
+Cycle Average Maximum Value-  106.22 kw
+Cycle Average Minimum Value-  56.97 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  5 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  938.0 kw
+Cycle General Start Time- 5:45
+Cycle General End Time  - 8:30
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  177.0 mins
+Cycle Average Maximum Value-  96.99 kw
+Cycle Average Minimum Value-  54.86 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  10 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1946.57 kw
+Cycle General Start Time- 5:45
+Cycle General End Time  - 8:0
+Cycle Median Duration-   247.5 mins
+Cycle Average Duration-  325.5 mins
+Cycle Average Maximum Value-  103.68 kw
+Cycle Average Minimum Value-  61.59 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  4 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  879.83 kw
+Cycle General Start Time- 5:15
+Cycle General End Time  - 8:15
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  183.75 mins
+Cycle Average Maximum Value-  81.0 kw
+Cycle Average Minimum Value-  56.7 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  0 days
+Cycle Average Energy Consumption- 0 kw
+Cycle General Start Time- 0
+Cycle General End Time  - 0
+Cycle Duration- 0 mins
+Cycle Average Maximum Value- 0 kw
+Cycle Average Minimum Value- 0 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+----------------------------------------------------------------
+--No of Cycles- 2
+--Total Days when No of Cycles is  2 -  34
+
+--Weekday Profile- 
+ {'Monday': 5, 'Tuesday': 5, 'Wednesday': 10, 'Thursday': 7, 'Friday': 6, 'Saturday': 1, 'Sunday': 0}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  5 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1604.0 kw
+Cycle General Start Time- 6:30
+Cycle General End Time  - 10:0
+Cycle Median Duration-   210.0 mins
+Cycle Average Duration-  273.0 mins
+Cycle Average Maximum Value-  106.05 kw
+Cycle Average Minimum Value-  59.0 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  420.04 kw
+Cycle General Start Time- 14:30
+Cycle General End Time  - 14:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  81.0 mins
+Cycle Average Maximum Value-  69.86 kw
+Cycle Average Minimum Value-  57.36 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  5 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1567.59 kw
+Cycle General Start Time- 7:30
+Cycle General End Time  - 11:15
+Cycle Median Duration-   225.0 mins
+Cycle Average Duration-  255.0 mins
+Cycle Average Maximum Value-  110.16 kw
+Cycle Average Minimum Value-  64.47 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  875.94 kw
+Cycle General Start Time- 13:30
+Cycle General End Time  - 17:0
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  162.0 mins
+Cycle Average Maximum Value-  91.21 kw
+Cycle Average Minimum Value-  55.27 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  10 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1157.96 kw
+Cycle General Start Time- 6:45
+Cycle General End Time  - 8:0
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  201.0 mins
+Cycle Average Maximum Value-  103.17 kw
+Cycle Average Minimum Value-  57.3 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  623.38 kw
+Cycle General Start Time- 14:45
+Cycle General End Time  - 17:0
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  129.0 mins
+Cycle Average Maximum Value-  78.56 kw
+Cycle Average Minimum Value-  59.07 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  7 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1634.4 kw
+Cycle General Start Time- 6:45
+Cycle General End Time  - 10:45
+Cycle Median Duration-   255.0 mins
+Cycle Average Duration-  282.9 mins
+Cycle Average Maximum Value-  106.38 kw
+Cycle Average Minimum Value-  61.7 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  957.86 kw
+Cycle General Start Time- 12:15
+Cycle General End Time  - 16:0
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  171.45 mins
+Cycle Average Maximum Value-  87.54 kw
+Cycle Average Minimum Value-  62.66 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  6 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1223.35 kw
+Cycle General Start Time- 5:45
+Cycle General End Time  - 9:0
+Cycle Median Duration-   210.0 mins
+Cycle Average Duration-  205.05 mins
+Cycle Average Maximum Value-  108.57 kw
+Cycle Average Minimum Value-  62.11 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  475.9 kw
+Cycle General Start Time- 11:30
+Cycle General End Time  - 13:22
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  92.55 mins
+Cycle Average Maximum Value-  76.1 kw
+Cycle Average Minimum Value-  55.82 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  794.9 kw
+Cycle General Start Time- 5:15
+Cycle General End Time  - 7:45
+Cycle Median Duration-   165.0 mins
+Cycle Average Duration-  165.0 mins
+Cycle Average Maximum Value-  84.58 kw
+Cycle Average Minimum Value-  54.56 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  51.04 kw
+Cycle General Start Time- 8:30
+Cycle General End Time  - 8:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  51.04 kw
+Cycle Average Minimum Value-  51.04 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  0 days
+Cycle Average Energy Consumption- 0 kw
+Cycle General Start Time- 0
+Cycle General End Time  - 0
+Cycle Duration- 0 mins
+Cycle Average Maximum Value- 0 kw
+Cycle Average Minimum Value- 0 kw
+***************************************************
+
+
+-------------------------------------------------------------------------

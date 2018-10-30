@@ -1,0 +1,3396 @@
+
+Cycles Profile-  {0: {0: 1, 3: 6, 4: 14, 5: 16, 6: 16, 7: 12, 8: 14, 9: 15, 10: 10, 11: 11, 12: 14, 13: 8, 14: 10, 15: 7, 16: 5, 17: 5, 18: 5, 19: 6, 20: 2, 22: 1, 25: 1}, 1: {0: 1, 1: 5, 2: 3, 3: 8, 4: 6, 5: 8, 6: 11, 7: 11, 8: 15, 9: 19, 10: 16, 11: 22, 12: 15, 13: 14, 14: 10, 15: 6, 16: 6, 17: 1, 18: 1, 19: 1}}
+
+Total No of Days in Dataset  179.0 days.
+
+
+
+----------------------------------------------------------------------
+-------------------------- OFF-VALUE  50.79 -------------------------
+----------------------------------------------------------------------
+
+-------------------------- TOP 3 PROFILES -----------------------------
+
+
+----------------------------------------------------------------
+--No of Cycles- 5
+--Total Days when No of Cycles is  5 -  16
+
+--Weekday Profile- 
+ {'Monday': 1, 'Tuesday': 2, 'Wednesday': 7, 'Thursday': 2, 'Friday': 3, 'Saturday': 1, 'Sunday': 0}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  354.17 kw
+Cycle General Start Time- 2:15
+Cycle General End Time  - 3:15
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  96.77 kw
+Cycle Average Minimum Value-  51.45 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  669.82 kw
+Cycle General Start Time- 3:45
+Cycle General End Time  - 5:45
+Cycle Median Duration-   135.0 mins
+Cycle Average Duration-  135.0 mins
+Cycle Average Maximum Value-  85.5 kw
+Cycle Average Minimum Value-  65.92 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  4093.29 kw
+Cycle General Start Time- 6:15
+Cycle General End Time  - 17:45
+Cycle Median Duration-   705.0 mins
+Cycle Average Duration-  705.0 mins
+Cycle Average Maximum Value-  114.81 kw
+Cycle Average Minimum Value-  55.68 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  425.59 kw
+Cycle General Start Time- 18:15
+Cycle General End Time  - 19:30
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  90.0 mins
+Cycle Average Maximum Value-  94.21 kw
+Cycle Average Minimum Value-  60.54 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  567.93 kw
+Cycle General Start Time- 20:0
+Cycle General End Time  - 21:45
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  120.0 mins
+Cycle Average Maximum Value-  94.46 kw
+Cycle Average Minimum Value-  53.5 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  489.72 kw
+Cycle General Start Time- 2:7
+Cycle General End Time  - 3:30
+Cycle Median Duration-   97.5 mins
+Cycle Average Duration-  97.5 mins
+Cycle Average Maximum Value-  86.53 kw
+Cycle Average Minimum Value-  55.29 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  314.69 kw
+Cycle General Start Time- 3:30
+Cycle General End Time  - 4:15
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  73.98 kw
+Cycle Average Minimum Value-  54.91 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  4063.63 kw
+Cycle General Start Time- 5:22
+Cycle General End Time  - 16:15
+Cycle Median Duration-   697.5 mins
+Cycle Average Duration-  697.5 mins
+Cycle Average Maximum Value-  110.91 kw
+Cycle Average Minimum Value-  53.18 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  878.14 kw
+Cycle General Start Time- 16:45
+Cycle General End Time  - 19:37
+Cycle Median Duration-   157.5 mins
+Cycle Average Duration-  157.5 mins
+Cycle Average Maximum Value-  101.76 kw
+Cycle Average Minimum Value-  53.95 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  887.48 kw
+Cycle General Start Time- 20:7
+Cycle General End Time  - 22:45
+Cycle Median Duration-   172.5 mins
+Cycle Average Duration-  172.5 mins
+Cycle Average Maximum Value-  96.51 kw
+Cycle Average Minimum Value-  63.93 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  7 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  407.99 kw
+Cycle General Start Time- 0:30
+Cycle General End Time  - 2:45
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  77.1 mins
+Cycle Average Maximum Value-  92.27 kw
+Cycle Average Minimum Value-  64.15 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  244.44 kw
+Cycle General Start Time- 3:15
+Cycle General End Time  - 3:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  51.45 mins
+Cycle Average Maximum Value-  77.47 kw
+Cycle Average Minimum Value-  62.12 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  3332.8 kw
+Cycle General Start Time- 4:15
+Cycle General End Time  - 19:45
+Cycle Median Duration-   900.0 mins
+Cycle Average Duration-  576.45 mins
+Cycle Average Maximum Value-  101.52 kw
+Cycle Average Minimum Value-  54.65 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  2471.88 kw
+Cycle General Start Time- 19:15
+Cycle General End Time  - 22:15
+Cycle Median Duration-   195.0 mins
+Cycle Average Duration-  411.45 mins
+Cycle Average Maximum Value-  100.17 kw
+Cycle Average Minimum Value-  58.29 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  256.35 kw
+Cycle General Start Time- 22:15
+Cycle General End Time  - 22:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  51.45 mins
+Cycle Average Maximum Value-  70.69 kw
+Cycle Average Minimum Value-  57.84 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  182.84 kw
+Cycle General Start Time- 2:7
+Cycle General End Time  - 2:30
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  80.32 kw
+Cycle Average Minimum Value-  68.8 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  2455.34 kw
+Cycle General Start Time- 3:7
+Cycle General End Time  - 10:22
+Cycle Median Duration-   420.0 mins
+Cycle Average Duration-  420.0 mins
+Cycle Average Maximum Value-  107.84 kw
+Cycle Average Minimum Value-  54.01 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  3625.51 kw
+Cycle General Start Time- 10:22
+Cycle General End Time  - 20:15
+Cycle Median Duration-   577.5 mins
+Cycle Average Duration-  577.5 mins
+Cycle Average Maximum Value-  111.23 kw
+Cycle Average Minimum Value-  56.25 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  511.17 kw
+Cycle General Start Time- 20:45
+Cycle General End Time  - 22:15
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  105.0 mins
+Cycle Average Maximum Value-  91.97 kw
+Cycle Average Minimum Value-  64.96 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  158.21 kw
+Cycle General Start Time- 22:45
+Cycle General End Time  - 23:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  86.91 kw
+Cycle Average Minimum Value-  71.29 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  3 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  312.4 kw
+Cycle General Start Time- 1:15
+Cycle General End Time  - 2:15
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  64.95 mins
+Cycle Average Maximum Value-  84.78 kw
+Cycle Average Minimum Value-  61.4 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  2828.47 kw
+Cycle General Start Time- 2:15
+Cycle General End Time  - 10:45
+Cycle Median Duration-   495.0 mins
+Cycle Average Duration-  495.0 mins
+Cycle Average Maximum Value-  105.26 kw
+Cycle Average Minimum Value-  51.8 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  924.88 kw
+Cycle General Start Time- 11:15
+Cycle General End Time  - 18:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  165.0 mins
+Cycle Average Maximum Value-  69.37 kw
+Cycle Average Minimum Value-  53.25 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  969.59 kw
+Cycle General Start Time- 19:30
+Cycle General End Time  - 19:30
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  169.95 mins
+Cycle Average Maximum Value-  99.71 kw
+Cycle Average Minimum Value-  66.26 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  330.19 kw
+Cycle General Start Time- 20:30
+Cycle General End Time  - 20:30
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  86.74 kw
+Cycle Average Minimum Value-  71.72 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1032.06 kw
+Cycle General Start Time- 1:30
+Cycle General End Time  - 4:45
+Cycle Median Duration-   210.0 mins
+Cycle Average Duration-  210.0 mins
+Cycle Average Maximum Value-  98.56 kw
+Cycle Average Minimum Value-  54.14 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  1159.8 kw
+Cycle General Start Time- 5:30
+Cycle General End Time  - 9:0
+Cycle Median Duration-   225.0 mins
+Cycle Average Duration-  225.0 mins
+Cycle Average Maximum Value-  98.82 kw
+Cycle Average Minimum Value-  53.76 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  1281.53 kw
+Cycle General Start Time- 9:45
+Cycle General End Time  - 13:30
+Cycle Median Duration-   240.0 mins
+Cycle Average Duration-  240.0 mins
+Cycle Average Maximum Value-  98.05 kw
+Cycle Average Minimum Value-  54.66 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  1144.06 kw
+Cycle General Start Time- 14:0
+Cycle General End Time  - 17:15
+Cycle Median Duration-   210.0 mins
+Cycle Average Duration-  210.0 mins
+Cycle Average Maximum Value-  99.07 kw
+Cycle Average Minimum Value-  52.22 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  1152.25 kw
+Cycle General Start Time- 18:0
+Cycle General End Time  - 21:30
+Cycle Median Duration-   225.0 mins
+Cycle Average Duration-  225.0 mins
+Cycle Average Maximum Value-  94.46 kw
+Cycle Average Minimum Value-  52.74 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  0 days
+Cycle Average Energy Consumption- 0 kw
+Cycle General Start Time- 0
+Cycle General End Time  - 0
+Cycle Duration- 0 mins
+Cycle Average Maximum Value- 0 kw
+Cycle Average Minimum Value- 0 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+----------------------------------------------------------------
+--No of Cycles- 6
+--Total Days when No of Cycles is  6 -  16
+
+--Weekday Profile- 
+ {'Monday': 2, 'Tuesday': 2, 'Wednesday': 3, 'Thursday': 5, 'Friday': 2, 'Saturday': 1, 'Sunday': 1}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  933.24 kw
+Cycle General Start Time- 0:22
+Cycle General End Time  - 3:37
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  180.0 mins
+Cycle Average Maximum Value-  98.81 kw
+Cycle Average Minimum Value-  54.46 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  829.69 kw
+Cycle General Start Time- 4:22
+Cycle General End Time  - 6:0
+Cycle Median Duration-   142.5 mins
+Cycle Average Duration-  142.5 mins
+Cycle Average Maximum Value-  102.72 kw
+Cycle Average Minimum Value-  54.01 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  1984.31 kw
+Cycle General Start Time- 6:30
+Cycle General End Time  - 11:22
+Cycle Median Duration-   307.5 mins
+Cycle Average Duration-  307.5 mins
+Cycle Average Maximum Value-  83.65 kw
+Cycle Average Minimum Value-  57.86 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  2443.95 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 20:0
+Cycle Median Duration-   472.5 mins
+Cycle Average Duration-  472.5 mins
+Cycle Average Maximum Value-  101.06 kw
+Cycle Average Minimum Value-  51.65 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  599.74 kw
+Cycle General Start Time- 20:37
+Cycle General End Time  - 22:22
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  120.0 mins
+Cycle Average Maximum Value-  93.12 kw
+Cycle Average Minimum Value-  52.29 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  295.1 kw
+Cycle General Start Time- 22:22
+Cycle General End Time  - 23:45
+Cycle Median Duration-   67.5 mins
+Cycle Average Duration-  67.5 mins
+Cycle Average Maximum Value-  68.86 kw
+Cycle Average Minimum Value-  60.93 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  196.42 kw
+Cycle General Start Time- 1:30
+Cycle General End Time  - 1:22
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  82.24 kw
+Cycle Average Minimum Value-  67.71 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  103.23 kw
+Cycle General Start Time- 2:22
+Cycle General End Time  - 2:30
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  65.54 kw
+Cycle Average Minimum Value-  63.49 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  2006.72 kw
+Cycle General Start Time- 2:30
+Cycle General End Time  - 9:7
+Cycle Median Duration-   382.5 mins
+Cycle Average Duration-  382.5 mins
+Cycle Average Maximum Value-  87.62 kw
+Cycle Average Minimum Value-  53.82 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  3171.3 kw
+Cycle General Start Time- 9:45
+Cycle General End Time  - 19:0
+Cycle Median Duration-   570.0 mins
+Cycle Average Duration-  570.0 mins
+Cycle Average Maximum Value-  110.14 kw
+Cycle Average Minimum Value-  53.76 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  317.12 kw
+Cycle General Start Time- 19:37
+Cycle General End Time  - 20:22
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  97.15 kw
+Cycle Average Minimum Value-  63.62 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  414.01 kw
+Cycle General Start Time- 20:22
+Cycle General End Time  - 22:7
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  90.0 mins
+Cycle Average Maximum Value-  86.53 kw
+Cycle Average Minimum Value-  57.09 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  3 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  231.34 kw
+Cycle General Start Time- 1:45
+Cycle General End Time  - 1:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  86.74 kw
+Cycle Average Minimum Value-  64.68 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  1003.73 kw
+Cycle General Start Time- 2:45
+Cycle General End Time  - 3:30
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  190.05 mins
+Cycle Average Maximum Value-  89.51 kw
+Cycle Average Minimum Value-  58.24 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  2768.58 kw
+Cycle General Start Time- 3:15
+Cycle General End Time  - 17:15
+Cycle Median Duration-   450.0 mins
+Cycle Average Duration-  454.95 mins
+Cycle Average Maximum Value-  105.6 kw
+Cycle Average Minimum Value-  58.49 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  979.24 kw
+Cycle General Start Time- 17:45
+Cycle General End Time  - 18:15
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  175.05 mins
+Cycle Average Maximum Value-  91.48 kw
+Cycle Average Minimum Value-  56.62 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  1344.93 kw
+Cycle General Start Time- 18:30
+Cycle General End Time  - 20:0
+Cycle Median Duration-   150.0 mins
+Cycle Average Duration-  225.0 mins
+Cycle Average Maximum Value-  99.71 kw
+Cycle Average Minimum Value-  65.02 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  520.45 kw
+Cycle General Start Time- 21:30
+Cycle General End Time  - 22:30
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  109.95 mins
+Cycle Average Maximum Value-  78.29 kw
+Cycle Average Minimum Value-  57.56 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  5 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  412.54 kw
+Cycle General Start Time- 1:15
+Cycle General End Time  - 2:0
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  81.0 mins
+Cycle Average Maximum Value-  82.56 kw
+Cycle Average Minimum Value-  60.54 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  362.24 kw
+Cycle General Start Time- 3:30
+Cycle General End Time  - 4:15
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  72.0 mins
+Cycle Average Maximum Value-  88.81 kw
+Cycle Average Minimum Value-  59.98 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  1883.58 kw
+Cycle General Start Time- 5:15
+Cycle General End Time  - 6:15
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  312.0 mins
+Cycle Average Maximum Value-  94.87 kw
+Cycle Average Minimum Value-  55.07 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  2399.78 kw
+Cycle General Start Time- 7:30
+Cycle General End Time  - 19:30
+Cycle Median Duration-   360.0 mins
+Cycle Average Duration-  414.0 mins
+Cycle Average Maximum Value-  110.52 kw
+Cycle Average Minimum Value-  54.99 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  827.61 kw
+Cycle General Start Time- 20:0
+Cycle General End Time  - 20:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  153.0 mins
+Cycle Average Maximum Value-  88.75 kw
+Cycle Average Minimum Value-  60.93 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  513.94 kw
+Cycle General Start Time- 20:45
+Cycle General End Time  - 22:15
+Cycle Median Duration-   135.0 mins
+Cycle Average Duration-  105.0 mins
+Cycle Average Maximum Value-  81.74 kw
+Cycle Average Minimum Value-  55.99 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  270.33 kw
+Cycle General Start Time- 1:37
+Cycle General End Time  - 2:22
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  71.1 kw
+Cycle Average Minimum Value-  61.12 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  392.13 kw
+Cycle General Start Time- 3:30
+Cycle General End Time  - 4:30
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  98.11 kw
+Cycle Average Minimum Value-  63.1 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  1033.27 kw
+Cycle General Start Time- 4:30
+Cycle General End Time  - 7:30
+Cycle Median Duration-   165.0 mins
+Cycle Average Duration-  165.0 mins
+Cycle Average Maximum Value-  104.45 kw
+Cycle Average Minimum Value-  63.1 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  4311.65 kw
+Cycle General Start Time- 7:30
+Cycle General End Time  - 19:15
+Cycle Median Duration-   690.0 mins
+Cycle Average Duration-  690.0 mins
+Cycle Average Maximum Value-  117.82 kw
+Cycle Average Minimum Value-  55.55 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  688.32 kw
+Cycle General Start Time- 19:15
+Cycle General End Time  - 21:7
+Cycle Median Duration-   127.5 mins
+Cycle Average Duration-  127.5 mins
+Cycle Average Maximum Value-  95.23 kw
+Cycle Average Minimum Value-  56.7 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  365.3 kw
+Cycle General Start Time- 21:37
+Cycle General End Time  - 22:45
+Cycle Median Duration-   82.5 mins
+Cycle Average Duration-  82.5 mins
+Cycle Average Maximum Value-  72.51 kw
+Cycle Average Minimum Value-  58.17 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  242.69 kw
+Cycle General Start Time- 0:45
+Cycle General End Time  - 1:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  98.05 kw
+Cycle Average Minimum Value-  70.02 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  237.06 kw
+Cycle General Start Time- 1:45
+Cycle General End Time  - 2:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  91.78 kw
+Cycle Average Minimum Value-  70.02 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  517.75 kw
+Cycle General Start Time- 2:45
+Cycle General End Time  - 4:15
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  105.0 mins
+Cycle Average Maximum Value-  91.78 kw
+Cycle Average Minimum Value-  58.37 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  3203.7 kw
+Cycle General Start Time- 4:45
+Cycle General End Time  - 14:15
+Cycle Median Duration-   585.0 mins
+Cycle Average Duration-  585.0 mins
+Cycle Average Maximum Value-  100.35 kw
+Cycle Average Minimum Value-  51.58 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  2214.9 kw
+Cycle General Start Time- 14:45
+Cycle General End Time  - 21:0
+Cycle Median Duration-   390.0 mins
+Cycle Average Duration-  390.0 mins
+Cycle Average Maximum Value-  99.58 kw
+Cycle Average Minimum Value-  54.27 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  265.22 kw
+Cycle General Start Time- 21:30
+Cycle General End Time  - 22:0
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  93.31 kw
+Cycle Average Minimum Value-  81.15 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  895.74 kw
+Cycle General Start Time- 1:15
+Cycle General End Time  - 4:0
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  180.0 mins
+Cycle Average Maximum Value-  96.51 kw
+Cycle Average Minimum Value-  51.45 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  1227.78 kw
+Cycle General Start Time- 5:30
+Cycle General End Time  - 9:15
+Cycle Median Duration-   240.0 mins
+Cycle Average Duration-  240.0 mins
+Cycle Average Maximum Value-  104.83 kw
+Cycle Average Minimum Value-  53.12 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  1225.34 kw
+Cycle General Start Time- 10:0
+Cycle General End Time  - 13:30
+Cycle Median Duration-   225.0 mins
+Cycle Average Duration-  225.0 mins
+Cycle Average Maximum Value-  101.89 kw
+Cycle Average Minimum Value-  51.97 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  2143.74 kw
+Cycle General Start Time- 14:0
+Cycle General End Time  - 20:0
+Cycle Median Duration-   375.0 mins
+Cycle Average Duration-  375.0 mins
+Cycle Average Maximum Value-  104.83 kw
+Cycle Average Minimum Value-  51.58 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  53.89 kw
+Cycle General Start Time- 20:30
+Cycle General End Time  - 20:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  53.89 kw
+Cycle Average Minimum Value-  53.89 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  50.94 kw
+Cycle General Start Time- 21:0
+Cycle General End Time  - 21:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  50.94 kw
+Cycle Average Minimum Value-  50.94 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+----------------------------------------------------------------
+--No of Cycles- 9
+--Total Days when No of Cycles is  9 -  15
+
+--Weekday Profile- 
+ {'Monday': 3, 'Tuesday': 1, 'Wednesday': 4, 'Thursday': 1, 'Friday': 3, 'Saturday': 1, 'Sunday': 2}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  3 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  177.58 kw
+Cycle General Start Time- 1:15
+Cycle General End Time  - 1:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  34.95 mins
+Cycle Average Maximum Value-  88.58 kw
+Cycle Average Minimum Value-  67.8 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  394.07 kw
+Cycle General Start Time- 2:15
+Cycle General End Time  - 3:30
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  79.95 mins
+Cycle Average Maximum Value-  82.13 kw
+Cycle Average Minimum Value-  61.87 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  460.5 kw
+Cycle General Start Time- 4:15
+Cycle General End Time  - 4:15
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  94.95 mins
+Cycle Average Maximum Value-  78.93 kw
+Cycle Average Minimum Value-  60.2 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  1131.47 kw
+Cycle General Start Time- 5:30
+Cycle General End Time  - 8:30
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  199.95 mins
+Cycle Average Maximum Value-  86.7 kw
+Cycle Average Minimum Value-  53.76 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  627.75 kw
+Cycle General Start Time- 9:30
+Cycle General End Time  - 9:30
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  109.95 mins
+Cycle Average Maximum Value-  89.55 kw
+Cycle Average Minimum Value-  57.3 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  810.36 kw
+Cycle General Start Time- 11:30
+Cycle General End Time  - 14:30
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  150.0 mins
+Cycle Average Maximum Value-  86.36 kw
+Cycle Average Minimum Value-  53.55 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  410.71 kw
+Cycle General Start Time- 15:30
+Cycle General End Time  - 16:30
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  89.85 kw
+Cycle Average Minimum Value-  76.63 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  1266.93 kw
+Cycle General Start Time- 17:15
+Cycle General End Time  - 20:30
+Cycle Median Duration-   225.0 mins
+Cycle Average Duration-  240.0 mins
+Cycle Average Maximum Value-  100.69 kw
+Cycle Average Minimum Value-  56.58 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  407.85 kw
+Cycle General Start Time- 21:15
+Cycle General End Time  - 22:0
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  85.05 mins
+Cycle Average Maximum Value-  87.17 kw
+Cycle Average Minimum Value-  57.56 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  520.06 kw
+Cycle General Start Time- 1:15
+Cycle General End Time  - 2:45
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  105.0 mins
+Cycle Average Maximum Value-  95.74 kw
+Cycle Average Minimum Value-  65.53 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  232.58 kw
+Cycle General Start Time- 3:30
+Cycle General End Time  - 4:0
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  92.54 kw
+Cycle Average Minimum Value-  50.94 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  2488.04 kw
+Cycle General Start Time- 4:30
+Cycle General End Time  - 11:15
+Cycle Median Duration-   420.0 mins
+Cycle Average Duration-  420.0 mins
+Cycle Average Maximum Value-  105.6 kw
+Cycle Average Minimum Value-  52.86 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  345.21 kw
+Cycle General Start Time- 11:45
+Cycle General End Time  - 12:30
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  104.32 kw
+Cycle Average Minimum Value-  54.14 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  1167.6 kw
+Cycle General Start Time- 13:0
+Cycle General End Time  - 15:45
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  180.0 mins
+Cycle Average Maximum Value-  104.7 kw
+Cycle Average Minimum Value-  81.41 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  238.46 kw
+Cycle General Start Time- 16:15
+Cycle General End Time  - 16:45
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  86.53 kw
+Cycle Average Minimum Value-  71.3 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  683.52 kw
+Cycle General Start Time- 17:15
+Cycle General End Time  - 19:0
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  120.0 mins
+Cycle Average Maximum Value-  96.51 kw
+Cycle Average Minimum Value-  65.66 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  226.56 kw
+Cycle General Start Time- 19:45
+Cycle General End Time  - 20:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  93.44 kw
+Cycle Average Minimum Value-  65.53 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  731.64 kw
+Cycle General Start Time- 20:45
+Cycle General End Time  - 23:0
+Cycle Median Duration-   150.0 mins
+Cycle Average Duration-  150.0 mins
+Cycle Average Maximum Value-  93.7 kw
+Cycle Average Minimum Value-  51.71 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  4 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  217.6 kw
+Cycle General Start Time- 1:30
+Cycle General End Time  - 2:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  41.25 mins
+Cycle Average Maximum Value-  75.01 kw
+Cycle Average Minimum Value-  68.35 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  206.05 kw
+Cycle General Start Time- 2:15
+Cycle General End Time  - 2:22
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  41.25 mins
+Cycle Average Maximum Value-  76.1 kw
+Cycle Average Minimum Value-  64.86 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  288.38 kw
+Cycle General Start Time- 3:45
+Cycle General End Time  - 4:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  56.25 mins
+Cycle Average Maximum Value-  74.18 kw
+Cycle Average Minimum Value-  60.42 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  484.41 kw
+Cycle General Start Time- 4:15
+Cycle General End Time  - 5:15
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  90.0 mins
+Cycle Average Maximum Value-  87.07 kw
+Cycle Average Minimum Value-  64.03 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  2324.78 kw
+Cycle General Start Time- 6:30
+Cycle General End Time  - 14:22
+Cycle Median Duration-   450.0 mins
+Cycle Average Duration-  416.25 mins
+Cycle Average Maximum Value-  98.85 kw
+Cycle Average Minimum Value-  56.03 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  655.39 kw
+Cycle General Start Time- 14:15
+Cycle General End Time  - 17:7
+Cycle Median Duration-   67.5 mins
+Cycle Average Duration-  112.5 mins
+Cycle Average Maximum Value-  88.22 kw
+Cycle Average Minimum Value-  65.18 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  1191.45 kw
+Cycle General Start Time- 18:15
+Cycle General End Time  - 19:15
+Cycle Median Duration-   127.5 mins
+Cycle Average Duration-  217.5 mins
+Cycle Average Maximum Value-  95.36 kw
+Cycle Average Minimum Value-  66.27 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  140.99 kw
+Cycle General Start Time- 19:22
+Cycle General End Time  - 20:7
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  33.75 mins
+Cycle Average Maximum Value-  66.11 kw
+Cycle Average Minimum Value-  58.65 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  528.44 kw
+Cycle General Start Time- 21:45
+Cycle General End Time  - 23:0
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  101.25 mins
+Cycle Average Maximum Value-  89.28 kw
+Cycle Average Minimum Value-  63.29 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  141.06 kw
+Cycle General Start Time- 0:45
+Cycle General End Time  - 1:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  70.53 kw
+Cycle Average Minimum Value-  70.53 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  791.54 kw
+Cycle General Start Time- 1:30
+Cycle General End Time  - 4:0
+Cycle Median Duration-   165.0 mins
+Cycle Average Duration-  165.0 mins
+Cycle Average Maximum Value-  98.3 kw
+Cycle Average Minimum Value-  54.78 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  146.3 kw
+Cycle General Start Time- 4:45
+Cycle General End Time  - 5:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  73.34 kw
+Cycle Average Minimum Value-  72.96 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  1103.48 kw
+Cycle General Start Time- 5:30
+Cycle General End Time  - 8:15
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  180.0 mins
+Cycle Average Maximum Value-  104.32 kw
+Cycle Average Minimum Value-  67.58 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  1271.03 kw
+Cycle General Start Time- 9:0
+Cycle General End Time  - 12:15
+Cycle Median Duration-   210.0 mins
+Cycle Average Duration-  210.0 mins
+Cycle Average Maximum Value-  103.3 kw
+Cycle Average Minimum Value-  61.56 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  1480.44 kw
+Cycle General Start Time- 12:45
+Cycle General End Time  - 16:30
+Cycle Median Duration-   240.0 mins
+Cycle Average Duration-  240.0 mins
+Cycle Average Maximum Value-  108.67 kw
+Cycle Average Minimum Value-  68.48 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  1051.9 kw
+Cycle General Start Time- 17:0
+Cycle General End Time  - 20:0
+Cycle Median Duration-   195.0 mins
+Cycle Average Duration-  195.0 mins
+Cycle Average Maximum Value-  99.45 kw
+Cycle Average Minimum Value-  55.42 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  135.04 kw
+Cycle General Start Time- 20:45
+Cycle General End Time  - 21:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  70.02 kw
+Cycle Average Minimum Value-  65.02 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  246.14 kw
+Cycle General Start Time- 21:45
+Cycle General End Time  - 22:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  88.45 kw
+Cycle Average Minimum Value-  78.08 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  3 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  1415.67 kw
+Cycle General Start Time- 1:30
+Cycle General End Time  - 2:45
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  280.05 mins
+Cycle Average Maximum Value-  94.93 kw
+Cycle Average Minimum Value-  58.33 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  338.09 kw
+Cycle General Start Time- 3:15
+Cycle General End Time  - 3:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  70.05 mins
+Cycle Average Maximum Value-  75.73 kw
+Cycle Average Minimum Value-  56.23 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  408.15 kw
+Cycle General Start Time- 4:15
+Cycle General End Time  - 6:30
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  85.05 mins
+Cycle Average Maximum Value-  81.88 kw
+Cycle Average Minimum Value-  57.09 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  1750.04 kw
+Cycle General Start Time- 6:30
+Cycle General End Time  - 18:0
+Cycle Median Duration-   210.0 mins
+Cycle Average Duration-  334.95 mins
+Cycle Average Maximum Value-  89.26 kw
+Cycle Average Minimum Value-  54.36 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  600.7 kw
+Cycle General Start Time- 19:30
+Cycle General End Time  - 19:15
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  115.05 mins
+Cycle Average Maximum Value-  88.7 kw
+Cycle Average Minimum Value-  60.37 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  496.68 kw
+Cycle General Start Time- 19:45
+Cycle General End Time  - 20:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  94.95 mins
+Cycle Average Maximum Value-  79.91 kw
+Cycle Average Minimum Value-  56.4 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  219.86 kw
+Cycle General Start Time- 20:30
+Cycle General End Time  - 21:45
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  49.95 mins
+Cycle Average Maximum Value-  70.57 kw
+Cycle Average Minimum Value-  56.87 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  265.26 kw
+Cycle General Start Time- 22:15
+Cycle General End Time  - 22:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  55.05 mins
+Cycle Average Maximum Value-  74.5 kw
+Cycle Average Minimum Value-  59.22 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  113.32 kw
+Cycle General Start Time- 23:15
+Cycle General End Time  - 23:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  25.049999999999997 mins
+Cycle Average Maximum Value-  70.57 kw
+Cycle Average Minimum Value-  60.97 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  126.59 kw
+Cycle General Start Time- 2:30
+Cycle General End Time  - 2:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  69.38 kw
+Cycle Average Minimum Value-  57.22 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  1262.32 kw
+Cycle General Start Time- 3:30
+Cycle General End Time  - 7:30
+Cycle Median Duration-   255.0 mins
+Cycle Average Duration-  255.0 mins
+Cycle Average Maximum Value-  96.9 kw
+Cycle Average Minimum Value-  51.07 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  789.75 kw
+Cycle General Start Time- 8:0
+Cycle General End Time  - 10:0
+Cycle Median Duration-   135.0 mins
+Cycle Average Duration-  135.0 mins
+Cycle Average Maximum Value-  97.41 kw
+Cycle Average Minimum Value-  62.97 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  201.98 kw
+Cycle General Start Time- 10:30
+Cycle General End Time  - 11:0
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  71.3 kw
+Cycle Average Minimum Value-  60.8 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  1269.24 kw
+Cycle General Start Time- 11:45
+Cycle General End Time  - 15:15
+Cycle Median Duration-   225.0 mins
+Cycle Average Duration-  225.0 mins
+Cycle Average Maximum Value-  100.6 kw
+Cycle Average Minimum Value-  63.87 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  1014.65 kw
+Cycle General Start Time- 15:45
+Cycle General End Time  - 18:15
+Cycle Median Duration-   165.0 mins
+Cycle Average Duration-  165.0 mins
+Cycle Average Maximum Value-  99.45 kw
+Cycle Average Minimum Value-  79.36 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  201.98 kw
+Cycle General Start Time- 18:45
+Cycle General End Time  - 19:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  71.3 kw
+Cycle Average Minimum Value-  61.7 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  828.8 kw
+Cycle General Start Time- 20:0
+Cycle General End Time  - 22:15
+Cycle Median Duration-   150.0 mins
+Cycle Average Duration-  150.0 mins
+Cycle Average Maximum Value-  99.45 kw
+Cycle Average Minimum Value-  63.49 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  182.4 kw
+Cycle General Start Time- 22:45
+Cycle General End Time  - 23:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  71.04 kw
+Cycle Average Minimum Value-  54.27 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  604.09 kw
+Cycle General Start Time- 0:22
+Cycle General End Time  - 2:7
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  120.0 mins
+Cycle Average Maximum Value-  92.8 kw
+Cycle Average Minimum Value-  59.01 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  495.55 kw
+Cycle General Start Time- 4:0
+Cycle General End Time  - 5:22
+Cycle Median Duration-   97.5 mins
+Cycle Average Duration-  97.5 mins
+Cycle Average Maximum Value-  93.05 kw
+Cycle Average Minimum Value-  56.19 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  348.35 kw
+Cycle General Start Time- 5:22
+Cycle General End Time  - 6:22
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  71.81 kw
+Cycle Average Minimum Value-  53.95 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  548.8 kw
+Cycle General Start Time- 8:7
+Cycle General End Time  - 9:37
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  105.0 mins
+Cycle Average Maximum Value-  88.96 kw
+Cycle Average Minimum Value-  53.69 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  970.74 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 12:30
+Cycle Median Duration-   180.0 mins
+Cycle Average Duration-  180.0 mins
+Cycle Average Maximum Value-  94.02 kw
+Cycle Average Minimum Value-  56.06 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  441.53 kw
+Cycle General Start Time- 13:30
+Cycle General End Time  - 15:0
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  98.94 kw
+Cycle Average Minimum Value-  65.41 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  651.26 kw
+Cycle General Start Time- 15:30
+Cycle General End Time  - 17:15
+Cycle Median Duration-   120.0 mins
+Cycle Average Duration-  120.0 mins
+Cycle Average Maximum Value-  99.01 kw
+Cycle Average Minimum Value-  52.29 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  683.52 kw
+Cycle General Start Time- 17:30
+Cycle General End Time  - 19:30
+Cycle Median Duration-   135.0 mins
+Cycle Average Duration-  135.0 mins
+Cycle Average Maximum Value-  97.15 kw
+Cycle Average Minimum Value-  53.37 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  710.65 kw
+Cycle General Start Time- 20:15
+Cycle General End Time  - 22:30
+Cycle Median Duration-   150.0 mins
+Cycle Average Duration-  150.0 mins
+Cycle Average Maximum Value-  96.19 kw
+Cycle Average Minimum Value-  53.69 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+-------------------------- OFF-VALUE  94.75 -------------------------
+----------------------------------------------------------------------
+
+-------------------------- TOP 3 PROFILES -----------------------------
+
+
+----------------------------------------------------------------
+--No of Cycles- 11
+--Total Days when No of Cycles is  11 -  22
+
+--Weekday Profile- 
+ {'Monday': 2, 'Tuesday': 2, 'Wednesday': 2, 'Thursday': 8, 'Friday': 4, 'Saturday': 2, 'Sunday': 2}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  100.1 kw
+Cycle General Start Time- 3:37
+Cycle General End Time  - 3:37
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.1 kw
+Cycle Average Minimum Value-  100.1 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  153.6 kw
+Cycle General Start Time- 6:7
+Cycle General End Time  - 6:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  104.45 kw
+Cycle Average Minimum Value-  100.09 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  107.01 kw
+Cycle General Start Time- 8:7
+Cycle General End Time  - 8:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  107.01 kw
+Cycle Average Minimum Value-  107.01 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  209.66 kw
+Cycle General Start Time- 8:37
+Cycle General End Time  - 8:22
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  107.14 kw
+Cycle Average Minimum Value-  101.82 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  425.73 kw
+Cycle General Start Time- 9:15
+Cycle General End Time  - 10:30
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  109.06 kw
+Cycle Average Minimum Value-  98.24 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  103.87 kw
+Cycle General Start Time- 11:0
+Cycle General End Time  - 11:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  103.87 kw
+Cycle Average Minimum Value-  103.87 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  265.54 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 12:15
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  111.3 kw
+Cycle Average Minimum Value-  104.26 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  318.46 kw
+Cycle General Start Time- 13:30
+Cycle General End Time  - 14:0
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  110.01 kw
+Cycle Average Minimum Value-  98.82 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  373.76 kw
+Cycle General Start Time- 14:15
+Cycle General End Time  - 15:22
+Cycle Median Duration-   52.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  109.18 kw
+Cycle Average Minimum Value-  100.35 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  103.8 kw
+Cycle General Start Time- 18:7
+Cycle General End Time  - 18:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  103.8 kw
+Cycle Average Minimum Value-  103.8 kw
+
+CYCLE No.-  11
+Cycle Average Energy Consumption-  96.38 kw
+Cycle General Start Time- 20:7
+Cycle General End Time  - 20:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.38 kw
+Cycle Average Minimum Value-  96.38 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  194.75 kw
+Cycle General Start Time- 4:30
+Cycle General End Time  - 4:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  98.05 kw
+Cycle Average Minimum Value-  96.32 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  96.51 kw
+Cycle General Start Time- 5:30
+Cycle General End Time  - 5:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.51 kw
+Cycle Average Minimum Value-  96.51 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  205.18 kw
+Cycle General Start Time- 7:0
+Cycle General End Time  - 7:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  103.23 kw
+Cycle Average Minimum Value-  98.94 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  104.25 kw
+Cycle General Start Time- 8:15
+Cycle General End Time  - 8:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  104.25 kw
+Cycle Average Minimum Value-  104.25 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  254.34 kw
+Cycle General Start Time- 8:22
+Cycle General End Time  - 9:15
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  104.06 kw
+Cycle Average Minimum Value-  99.9 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  199.94 kw
+Cycle General Start Time- 11:7
+Cycle General End Time  - 11:22
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  100.93 kw
+Cycle Average Minimum Value-  100.03 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  349.63 kw
+Cycle General Start Time- 12:7
+Cycle General End Time  - 12:15
+Cycle Median Duration-   52.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  100.86 kw
+Cycle Average Minimum Value-  98.62 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  352.32 kw
+Cycle General Start Time- 13:45
+Cycle General End Time  - 14:22
+Cycle Median Duration-   52.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  101.57 kw
+Cycle Average Minimum Value-  95.87 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  149.63 kw
+Cycle General Start Time- 15:22
+Cycle General End Time  - 15:0
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  101.82 kw
+Cycle Average Minimum Value-  97.22 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  315.13 kw
+Cycle General Start Time- 16:30
+Cycle General End Time  - 16:30
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  109.12 kw
+Cycle Average Minimum Value-  100.22 kw
+
+CYCLE No.-  11
+Cycle Average Energy Consumption-  149.89 kw
+Cycle General Start Time- 19:7
+Cycle General End Time  - 19:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  101.18 kw
+Cycle Average Minimum Value-  97.73 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  147.39 kw
+Cycle General Start Time- 3:22
+Cycle General End Time  - 3:30
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  98.94 kw
+Cycle Average Minimum Value-  97.6 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  369.73 kw
+Cycle General Start Time- 5:22
+Cycle General End Time  - 6:30
+Cycle Median Duration-   52.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  103.68 kw
+Cycle Average Minimum Value-  99.52 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  153.98 kw
+Cycle General Start Time- 7:37
+Cycle General End Time  - 7:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  102.4 kw
+Cycle Average Minimum Value-  101.25 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  265.85 kw
+Cycle General Start Time- 8:22
+Cycle General End Time  - 8:45
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  112.7 kw
+Cycle Average Minimum Value-  102.08 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  578.88 kw
+Cycle General Start Time- 9:15
+Cycle General End Time  - 10:22
+Cycle Median Duration-   82.5 mins
+Cycle Average Duration-  82.5 mins
+Cycle Average Maximum Value-  108.42 kw
+Cycle Average Minimum Value-  100.99 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  781.63 kw
+Cycle General Start Time- 12:45
+Cycle General End Time  - 13:45
+Cycle Median Duration-   105.0 mins
+Cycle Average Duration-  105.0 mins
+Cycle Average Maximum Value-  117.63 kw
+Cycle Average Minimum Value-  106.37 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  477.75 kw
+Cycle General Start Time- 14:30
+Cycle General End Time  - 15:22
+Cycle Median Duration-   67.5 mins
+Cycle Average Duration-  67.5 mins
+Cycle Average Maximum Value-  114.75 kw
+Cycle Average Minimum Value-  107.65 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  209.73 kw
+Cycle General Start Time- 16:30
+Cycle General End Time  - 16:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  108.54 kw
+Cycle Average Minimum Value-  104.9 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  352.13 kw
+Cycle General Start Time- 17:22
+Cycle General End Time  - 18:0
+Cycle Median Duration-   52.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  105.28 kw
+Cycle Average Minimum Value-  96.0 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  102.4 kw
+Cycle General Start Time- 20:30
+Cycle General End Time  - 20:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  102.4 kw
+Cycle Average Minimum Value-  102.4 kw
+
+CYCLE No.-  11
+Cycle Average Energy Consumption-  144.9 kw
+Cycle General Start Time- 22:15
+Cycle General End Time  - 22:22
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  97.34 kw
+Cycle Average Minimum Value-  95.94 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  8 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  98.21 kw
+Cycle General Start Time- 3:30
+Cycle General End Time  - 3:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.21 kw
+Cycle Average Minimum Value-  98.21 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  136.96 kw
+Cycle General Start Time- 7:0
+Cycle General End Time  - 7:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  20.7 mins
+Cycle Average Maximum Value-  99.69 kw
+Cycle Average Minimum Value-  98.77 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  214.43 kw
+Cycle General Start Time- 7:30
+Cycle General End Time  - 6:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  31.8 mins
+Cycle Average Maximum Value-  103.3 kw
+Cycle Average Minimum Value-  100.13 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  280.93 kw
+Cycle General Start Time- 7:22
+Cycle General End Time  - 8:22
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  41.25 mins
+Cycle Average Maximum Value-  102.72 kw
+Cycle Average Minimum Value-  100.13 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  375.89 kw
+Cycle General Start Time- 10:0
+Cycle General End Time  - 11:45
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  54.300000000000004 mins
+Cycle Average Maximum Value-  105.58 kw
+Cycle Average Minimum Value-  99.44 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  641.15 kw
+Cycle General Start Time- 10:30
+Cycle General End Time  - 11:15
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  93.75 mins
+Cycle Average Maximum Value-  106.56 kw
+Cycle Average Minimum Value-  98.27 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  459.07 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 13:45
+Cycle Median Duration-   67.5 mins
+Cycle Average Duration-  67.5 mins
+Cycle Average Maximum Value-  106.33 kw
+Cycle Average Minimum Value-  98.18 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  378.6 kw
+Cycle General Start Time- 14:30
+Cycle General End Time  - 15:15
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  54.300000000000004 mins
+Cycle Average Maximum Value-  104.43 kw
+Cycle Average Minimum Value-  99.62 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  310.16 kw
+Cycle General Start Time- 17:15
+Cycle General End Time  - 17:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  105.97 kw
+Cycle Average Minimum Value-  98.72 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  237.1 kw
+Cycle General Start Time- 17:45
+Cycle General End Time  - 18:37
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  35.699999999999996 mins
+Cycle Average Maximum Value-  100.7 kw
+Cycle Average Minimum Value-  97.54 kw
+
+CYCLE No.-  11
+Cycle Average Energy Consumption-  132.77 kw
+Cycle General Start Time- 21:22
+Cycle General End Time  - 21:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  20.7 mins
+Cycle Average Maximum Value-  96.7 kw
+Cycle Average Minimum Value-  96.08 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  4 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  96.64 kw
+Cycle General Start Time- 1:0
+Cycle General End Time  - 1:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.64 kw
+Cycle Average Minimum Value-  96.64 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  173.06 kw
+Cycle General Start Time- 3:22
+Cycle General End Time  - 3:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  26.25 mins
+Cycle Average Maximum Value-  99.46 kw
+Cycle Average Minimum Value-  98.24 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  445.53 kw
+Cycle General Start Time- 5:15
+Cycle General End Time  - 6:22
+Cycle Median Duration-   67.5 mins
+Cycle Average Duration-  67.5 mins
+Cycle Average Maximum Value-  100.8 kw
+Cycle Average Minimum Value-  96.29 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  328.7 kw
+Cycle General Start Time- 8:30
+Cycle General End Time  - 9:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  48.75 mins
+Cycle Average Maximum Value-  102.43 kw
+Cycle Average Minimum Value-  98.82 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  462.72 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 10:7
+Cycle Median Duration-   67.5 mins
+Cycle Average Duration-  67.5 mins
+Cycle Average Maximum Value-  107.71 kw
+Cycle Average Minimum Value-  101.6 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  301.76 kw
+Cycle General Start Time- 11:37
+Cycle General End Time  - 12:37
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  100.74 kw
+Cycle Average Minimum Value-  98.88 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  453.85 kw
+Cycle General Start Time- 13:22
+Cycle General End Time  - 14:22
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  63.75 mins
+Cycle Average Maximum Value-  109.38 kw
+Cycle Average Minimum Value-  104.16 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  429.18 kw
+Cycle General Start Time- 14:22
+Cycle General End Time  - 15:22
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  112.93 kw
+Cycle Average Minimum Value-  103.07 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  125.79 kw
+Cycle General Start Time- 19:30
+Cycle General End Time  - 19:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  18.75 mins
+Cycle Average Maximum Value-  101.79 kw
+Cycle Average Minimum Value-  101.44 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  146.91 kw
+Cycle General Start Time- 18:22
+Cycle General End Time  - 18:30
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  98.46 kw
+Cycle Average Minimum Value-  96.45 kw
+
+CYCLE No.-  11
+Cycle Average Energy Consumption-  98.62 kw
+Cycle General Start Time- 21:0
+Cycle General End Time  - 21:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.62 kw
+Cycle Average Minimum Value-  98.62 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  98.3 kw
+Cycle General Start Time- 2:7
+Cycle General End Time  - 2:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.3 kw
+Cycle Average Minimum Value-  98.3 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  98.69 kw
+Cycle General Start Time- 5:0
+Cycle General End Time  - 5:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.69 kw
+Cycle Average Minimum Value-  98.69 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  96.13 kw
+Cycle General Start Time- 6:15
+Cycle General End Time  - 6:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.13 kw
+Cycle Average Minimum Value-  96.13 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  196.42 kw
+Cycle General Start Time- 7:15
+Cycle General End Time  - 7:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  99.01 kw
+Cycle Average Minimum Value-  97.98 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  96.64 kw
+Cycle General Start Time- 10:0
+Cycle General End Time  - 10:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.64 kw
+Cycle Average Minimum Value-  96.64 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  95.87 kw
+Cycle General Start Time- 11:22
+Cycle General End Time  - 11:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.87 kw
+Cycle Average Minimum Value-  95.87 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  193.79 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 12:7
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  97.28 kw
+Cycle Average Minimum Value-  96.51 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  143.42 kw
+Cycle General Start Time- 13:45
+Cycle General End Time  - 14:22
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  95.94 kw
+Cycle Average Minimum Value-  95.62 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  145.09 kw
+Cycle General Start Time- 16:0
+Cycle General End Time  - 16:7
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  97.6 kw
+Cycle Average Minimum Value-  95.55 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  146.56 kw
+Cycle General Start Time- 19:30
+Cycle General End Time  - 19:7
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  97.92 kw
+Cycle Average Minimum Value-  96.77 kw
+
+CYCLE No.-  11
+Cycle Average Energy Consumption-  96.51 kw
+Cycle General Start Time- 20:37
+Cycle General End Time  - 20:37
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.51 kw
+Cycle Average Minimum Value-  96.51 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  97.09 kw
+Cycle General Start Time- 1:22
+Cycle General End Time  - 1:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  97.09 kw
+Cycle Average Minimum Value-  97.09 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  96.0 kw
+Cycle General Start Time- 2:22
+Cycle General End Time  - 2:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.0 kw
+Cycle Average Minimum Value-  96.0 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  96.58 kw
+Cycle General Start Time- 6:22
+Cycle General End Time  - 6:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.58 kw
+Cycle Average Minimum Value-  96.58 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  98.24 kw
+Cycle General Start Time- 9:15
+Cycle General End Time  - 9:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.24 kw
+Cycle Average Minimum Value-  98.24 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  96.0 kw
+Cycle General Start Time- 11:7
+Cycle General End Time  - 11:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.0 kw
+Cycle Average Minimum Value-  96.0 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  241.47 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 12:15
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  97.6 kw
+Cycle Average Minimum Value-  95.36 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  100.16 kw
+Cycle General Start Time- 14:7
+Cycle General End Time  - 14:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.16 kw
+Cycle Average Minimum Value-  100.16 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  194.5 kw
+Cycle General Start Time- 16:37
+Cycle General End Time  - 16:22
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  97.41 kw
+Cycle Average Minimum Value-  95.42 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  100.67 kw
+Cycle General Start Time- 18:7
+Cycle General End Time  - 18:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.67 kw
+Cycle Average Minimum Value-  100.67 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  150.08 kw
+Cycle General Start Time- 19:45
+Cycle General End Time  - 20:22
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  101.18 kw
+Cycle Average Minimum Value-  100.6 kw
+
+CYCLE No.-  11
+Cycle Average Energy Consumption-  193.54 kw
+Cycle General Start Time- 21:30
+Cycle General End Time  - 22:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  97.15 kw
+Cycle Average Minimum Value-  96.38 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+----------------------------------------------------------------
+--No of Cycles- 9
+--Total Days when No of Cycles is  9 -  19
+
+--Weekday Profile- 
+ {'Monday': 3, 'Tuesday': 5, 'Wednesday': 2, 'Thursday': 2, 'Friday': 5, 'Saturday': 1, 'Sunday': 1}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  3 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  98.05 kw
+Cycle General Start Time- 4:30
+Cycle General End Time  - 4:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.05 kw
+Cycle Average Minimum Value-  98.05 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  200.96 kw
+Cycle General Start Time- 7:30
+Cycle General End Time  - 7:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  102.1 kw
+Cycle Average Minimum Value-  100.1 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  96.98 kw
+Cycle General Start Time- 9:30
+Cycle General End Time  - 9:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.98 kw
+Cycle Average Minimum Value-  96.98 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  100.27 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 10:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.27 kw
+Cycle Average Minimum Value-  100.27 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  264.62 kw
+Cycle General Start Time- 11:15
+Cycle General End Time  - 11:30
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  40.05 mins
+Cycle Average Maximum Value-  100.74 kw
+Cycle Average Minimum Value-  97.54 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  137.21 kw
+Cycle General Start Time- 12:30
+Cycle General End Time  - 12:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  19.950000000000003 mins
+Cycle Average Maximum Value-  103.93 kw
+Cycle Average Minimum Value-  101.55 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  246.23 kw
+Cycle General Start Time- 14:15
+Cycle General End Time  - 14:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  34.95 mins
+Cycle Average Maximum Value-  106.58 kw
+Cycle Average Minimum Value-  103.34 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  205.87 kw
+Cycle General Start Time- 15:15
+Cycle General End Time  - 15:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  104.62 kw
+Cycle Average Minimum Value-  102.06 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  278.74 kw
+Cycle General Start Time- 16:15
+Cycle General End Time  - 17:0
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  40.05 mins
+Cycle Average Maximum Value-  107.99 kw
+Cycle Average Minimum Value-  96.98 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  5 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  118.32 kw
+Cycle General Start Time- 6:15
+Cycle General End Time  - 6:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  18.0 mins
+Cycle Average Maximum Value-  99.15 kw
+Cycle Average Minimum Value-  98.33 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  198.32 kw
+Cycle General Start Time- 7:30
+Cycle General End Time  - 7:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  100.48 kw
+Cycle Average Minimum Value-  98.02 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  284.52 kw
+Cycle General Start Time- 8:0
+Cycle General End Time  - 9:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  42.0 mins
+Cycle Average Maximum Value-  103.68 kw
+Cycle Average Minimum Value-  98.76 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  199.09 kw
+Cycle General Start Time- 9:30
+Cycle General End Time  - 9:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  101.86 kw
+Cycle Average Minimum Value-  99.12 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  164.66 kw
+Cycle General Start Time- 10:30
+Cycle General End Time  - 11:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  24.0 mins
+Cycle Average Maximum Value-  105.16 kw
+Cycle Average Minimum Value-  103.42 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  298.44 kw
+Cycle General Start Time- 12:15
+Cycle General End Time  - 13:15
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  102.45 kw
+Cycle Average Minimum Value-  98.92 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  145.97 kw
+Cycle General Start Time- 15:30
+Cycle General End Time  - 15:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  21.0 mins
+Cycle Average Maximum Value-  105.22 kw
+Cycle Average Minimum Value-  104.55 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  245.02 kw
+Cycle General Start Time- 15:45
+Cycle General End Time  - 16:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  36.0 mins
+Cycle Average Maximum Value-  103.32 kw
+Cycle Average Minimum Value-  98.15 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  139.14 kw
+Cycle General Start Time- 19:15
+Cycle General End Time  - 19:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  21.0 mins
+Cycle Average Maximum Value-  99.79 kw
+Cycle Average Minimum Value-  99.17 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  97.47 kw
+Cycle General Start Time- 7:7
+Cycle General End Time  - 7:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  97.47 kw
+Cycle Average Minimum Value-  97.47 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  353.27 kw
+Cycle General Start Time- 8:22
+Cycle General End Time  - 8:30
+Cycle Median Duration-   52.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  102.21 kw
+Cycle Average Minimum Value-  100.92 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  203.2 kw
+Cycle General Start Time- 10:7
+Cycle General End Time  - 10:22
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  103.81 kw
+Cycle Average Minimum Value-  99.39 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  104.96 kw
+Cycle General Start Time- 11:22
+Cycle General End Time  - 11:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  104.96 kw
+Cycle Average Minimum Value-  104.96 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  102.53 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 12:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  102.53 kw
+Cycle Average Minimum Value-  102.53 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  151.55 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 12:30
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  102.33 kw
+Cycle Average Minimum Value-  99.52 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  258.11 kw
+Cycle General Start Time- 15:30
+Cycle General End Time  - 16:22
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  104.96 kw
+Cycle Average Minimum Value-  101.69 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  98.94 kw
+Cycle General Start Time- 17:0
+Cycle General End Time  - 17:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.94 kw
+Cycle Average Minimum Value-  98.94 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  95.49 kw
+Cycle General Start Time- 18:30
+Cycle General End Time  - 18:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.49 kw
+Cycle Average Minimum Value-  95.49 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  150.66 kw
+Cycle General Start Time- 6:22
+Cycle General End Time  - 6:30
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  100.54 kw
+Cycle Average Minimum Value-  98.18 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  256.83 kw
+Cycle General Start Time- 7:45
+Cycle General End Time  - 8:7
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  102.85 kw
+Cycle Average Minimum Value-  102.14 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  152.0 kw
+Cycle General Start Time- 9:15
+Cycle General End Time  - 9:22
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  104.45 kw
+Cycle Average Minimum Value-  98.05 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  355.39 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 11:22
+Cycle Median Duration-   52.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  105.22 kw
+Cycle Average Minimum Value-  98.3 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  209.92 kw
+Cycle General Start Time- 11:45
+Cycle General End Time  - 12:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  107.84 kw
+Cycle Average Minimum Value-  102.08 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  304.89 kw
+Cycle General Start Time- 13:7
+Cycle General End Time  - 14:7
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  102.72 kw
+Cycle Average Minimum Value-  100.74 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  151.42 kw
+Cycle General Start Time- 15:7
+Cycle General End Time  - 15:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  101.31 kw
+Cycle Average Minimum Value-  99.65 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  151.17 kw
+Cycle General Start Time- 17:7
+Cycle General End Time  - 17:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  103.42 kw
+Cycle Average Minimum Value-  96.51 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  150.78 kw
+Cycle General Start Time- 19:7
+Cycle General End Time  - 19:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  100.16 kw
+Cycle Average Minimum Value-  98.62 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  5 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  139.57 kw
+Cycle General Start Time- 6:30
+Cycle General End Time  - 6:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  21.0 mins
+Cycle Average Maximum Value-  100.94 kw
+Cycle Average Minimum Value-  98.64 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  141.62 kw
+Cycle General Start Time- 8:30
+Cycle General End Time  - 9:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  21.0 mins
+Cycle Average Maximum Value-  99.97 kw
+Cycle Average Minimum Value-  99.66 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  203.62 kw
+Cycle General Start Time- 8:15
+Cycle General End Time  - 9:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  102.81 kw
+Cycle Average Minimum Value-  99.94 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  290.79 kw
+Cycle General Start Time- 10:30
+Cycle General End Time  - 10:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  42.0 mins
+Cycle Average Maximum Value-  104.27 kw
+Cycle Average Minimum Value-  99.69 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  455.12 kw
+Cycle General Start Time- 11:30
+Cycle General End Time  - 11:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  66.0 mins
+Cycle Average Maximum Value-  103.07 kw
+Cycle Average Minimum Value-  98.71 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  435.4 kw
+Cycle General Start Time- 14:15
+Cycle General End Time  - 11:30
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  63.0 mins
+Cycle Average Maximum Value-  106.06 kw
+Cycle Average Minimum Value-  100.5 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  223.54 kw
+Cycle General Start Time- 13:15
+Cycle General End Time  - 13:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  33.0 mins
+Cycle Average Maximum Value-  102.37 kw
+Cycle Average Minimum Value-  98.58 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  273.33 kw
+Cycle General Start Time- 14:30
+Cycle General End Time  - 14:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  39.0 mins
+Cycle Average Maximum Value-  104.04 kw
+Cycle Average Minimum Value-  101.45 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  100.38 kw
+Cycle General Start Time- 17:15
+Cycle General End Time  - 17:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.38 kw
+Cycle Average Minimum Value-  100.38 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  96.9 kw
+Cycle General Start Time- 1:30
+Cycle General End Time  - 1:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.9 kw
+Cycle Average Minimum Value-  96.9 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  103.81 kw
+Cycle General Start Time- 5:30
+Cycle General End Time  - 5:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  103.81 kw
+Cycle Average Minimum Value-  103.81 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  102.02 kw
+Cycle General Start Time- 6:15
+Cycle General End Time  - 6:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  102.02 kw
+Cycle Average Minimum Value-  102.02 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  193.92 kw
+Cycle General Start Time- 10:0
+Cycle General End Time  - 10:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  97.79 kw
+Cycle Average Minimum Value-  96.13 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  383.1 kw
+Cycle General Start Time- 13:45
+Cycle General End Time  - 14:30
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  97.79 kw
+Cycle Average Minimum Value-  94.85 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  289.28 kw
+Cycle General Start Time- 18:0
+Cycle General End Time  - 18:30
+Cycle Median Duration-   45.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  97.41 kw
+Cycle Average Minimum Value-  94.85 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  95.62 kw
+Cycle General Start Time- 19:30
+Cycle General End Time  - 19:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.62 kw
+Cycle Average Minimum Value-  95.62 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  96.51 kw
+Cycle General Start Time- 22:0
+Cycle General End Time  - 22:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.51 kw
+Cycle Average Minimum Value-  96.51 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  98.18 kw
+Cycle General Start Time- 22:30
+Cycle General End Time  - 22:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.18 kw
+Cycle Average Minimum Value-  98.18 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  98.3 kw
+Cycle General Start Time- 2:15
+Cycle General End Time  - 2:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.3 kw
+Cycle Average Minimum Value-  98.3 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  95.23 kw
+Cycle General Start Time- 3:0
+Cycle General End Time  - 3:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.23 kw
+Cycle Average Minimum Value-  95.23 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  97.66 kw
+Cycle General Start Time- 6:15
+Cycle General End Time  - 6:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  97.66 kw
+Cycle Average Minimum Value-  97.66 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  191.87 kw
+Cycle General Start Time- 8:15
+Cycle General End Time  - 8:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  96.64 kw
+Cycle Average Minimum Value-  95.23 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  96.64 kw
+Cycle General Start Time- 15:0
+Cycle General End Time  - 15:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.64 kw
+Cycle Average Minimum Value-  96.64 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  101.38 kw
+Cycle General Start Time- 16:0
+Cycle General End Time  - 16:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  101.38 kw
+Cycle Average Minimum Value-  101.38 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  97.02 kw
+Cycle General Start Time- 16:30
+Cycle General End Time  - 16:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  97.02 kw
+Cycle Average Minimum Value-  97.02 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  96.77 kw
+Cycle General Start Time- 18:30
+Cycle General End Time  - 18:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.77 kw
+Cycle Average Minimum Value-  96.77 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  98.3 kw
+Cycle General Start Time- 22:30
+Cycle General End Time  - 22:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.3 kw
+Cycle Average Minimum Value-  98.3 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
+
+----------------------------------------------------------------
+--No of Cycles- 10
+--Total Days when No of Cycles is  10 -  16
+
+--Weekday Profile- 
+ {'Monday': 4, 'Tuesday': 3, 'Wednesday': 4, 'Thursday': 1, 'Friday': 1, 'Saturday': 1, 'Sunday': 2}
+
+Week Day-  Monday
+Cycle Frequency on  Monday -  4 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  97.6 kw
+Cycle General Start Time- 2:22
+Cycle General End Time  - 2:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  97.6 kw
+Cycle Average Minimum Value-  97.6 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  100.77 kw
+Cycle General Start Time- 7:22
+Cycle General End Time  - 7:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.77 kw
+Cycle Average Minimum Value-  100.77 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  153.98 kw
+Cycle General Start Time- 8:30
+Cycle General End Time  - 8:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  103.9 kw
+Cycle Average Minimum Value-  99.62 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  278.21 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 10:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  41.25 mins
+Cycle Average Maximum Value-  100.7 kw
+Cycle Average Minimum Value-  97.41 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  151.49 kw
+Cycle General Start Time- 11:7
+Cycle General End Time  - 11:22
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  101.76 kw
+Cycle Average Minimum Value-  99.39 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  366.69 kw
+Cycle General Start Time- 11:45
+Cycle General End Time  - 13:0
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  104.29 kw
+Cycle Average Minimum Value-  98.4 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  376.03 kw
+Cycle General Start Time- 14:22
+Cycle General End Time  - 15:37
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  52.5 mins
+Cycle Average Maximum Value-  103.58 kw
+Cycle Average Minimum Value-  98.75 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  125.41 kw
+Cycle General Start Time- 17:30
+Cycle General End Time  - 17:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  18.75 mins
+Cycle Average Maximum Value-  100.93 kw
+Cycle Average Minimum Value-  100.35 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  147.58 kw
+Cycle General Start Time- 18:22
+Cycle General End Time  - 19:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  99.26 kw
+Cycle Average Minimum Value-  98.46 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  125.92 kw
+Cycle General Start Time- 21:30
+Cycle General End Time  - 21:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  18.75 mins
+Cycle Average Maximum Value-  99.71 kw
+Cycle Average Minimum Value-  99.52 kw
+***************************************************
+
+
+Week Day-  Tuesday
+Cycle Frequency on  Tuesday -  3 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  95.87 kw
+Cycle General Start Time- 3:45
+Cycle General End Time  - 3:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.87 kw
+Cycle Average Minimum Value-  95.87 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  201.9 kw
+Cycle General Start Time- 6:30
+Cycle General End Time  - 6:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  100.95 kw
+Cycle Average Minimum Value-  99.5 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  166.23 kw
+Cycle General Start Time- 7:15
+Cycle General End Time  - 8:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  25.049999999999997 mins
+Cycle Average Maximum Value-  100.05 kw
+Cycle Average Minimum Value-  98.47 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  172.59 kw
+Cycle General Start Time- 8:45
+Cycle General End Time  - 8:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  25.049999999999997 mins
+Cycle Average Maximum Value-  103.89 kw
+Cycle Average Minimum Value-  101.25 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  209.92 kw
+Cycle General Start Time- 10:30
+Cycle General End Time  - 10:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  105.9 kw
+Cycle Average Minimum Value-  100.57 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  518.01 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 12:15
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  106.2 kw
+Cycle Average Minimum Value-  99.58 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  505.51 kw
+Cycle General Start Time- 14:30
+Cycle General End Time  - 15:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  70.05 mins
+Cycle Average Maximum Value-  115.45 kw
+Cycle Average Minimum Value-  105.68 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  308.78 kw
+Cycle General Start Time- 16:30
+Cycle General End Time  - 17:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  106.37 kw
+Cycle Average Minimum Value-  102.02 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  103.04 kw
+Cycle General Start Time- 18:30
+Cycle General End Time  - 18:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  103.04 kw
+Cycle Average Minimum Value-  103.04 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  232.53 kw
+Cycle General Start Time- 19:30
+Cycle General End Time  - 19:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  34.95 mins
+Cycle Average Maximum Value-  100.95 kw
+Cycle Average Minimum Value-  98.69 kw
+***************************************************
+
+
+Week Day-  Wednesday
+Cycle Frequency on  Wednesday -  4 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  121.95 kw
+Cycle General Start Time- 3:7
+Cycle General End Time  - 3:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  18.75 mins
+Cycle Average Maximum Value-  97.92 kw
+Cycle Average Minimum Value-  97.66 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  251.74 kw
+Cycle General Start Time- 6:30
+Cycle General End Time  - 6:7
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  102.69 kw
+Cycle Average Minimum Value-  98.94 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  280.73 kw
+Cycle General Start Time- 8:22
+Cycle General End Time  - 9:22
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  41.25 mins
+Cycle Average Maximum Value-  102.3 kw
+Cycle Average Minimum Value-  98.02 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  202.88 kw
+Cycle General Start Time- 10:45
+Cycle General End Time  - 10:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  101.98 kw
+Cycle Average Minimum Value-  100.29 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  509.79 kw
+Cycle General Start Time- 10:22
+Cycle General End Time  - 11:15
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  104.64 kw
+Cycle Average Minimum Value-  98.81 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  315.36 kw
+Cycle General Start Time- 13:30
+Cycle General End Time  - 13:0
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  45.0 mins
+Cycle Average Maximum Value-  104.74 kw
+Cycle Average Minimum Value-  100.83 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  123.26 kw
+Cycle General Start Time- 14:15
+Cycle General End Time  - 14:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  18.75 mins
+Cycle Average Maximum Value-  98.78 kw
+Cycle Average Minimum Value-  97.95 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  407.99 kw
+Cycle General Start Time- 15:22
+Cycle General End Time  - 16:22
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  104.1 kw
+Cycle Average Minimum Value-  99.97 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  122.98 kw
+Cycle General Start Time- 17:15
+Cycle General End Time  - 17:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  18.75 mins
+Cycle Average Maximum Value-  98.62 kw
+Cycle Average Minimum Value-  97.09 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  99.17 kw
+Cycle General Start Time- 20:37
+Cycle General End Time  - 20:37
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  99.17 kw
+Cycle Average Minimum Value-  99.17 kw
+***************************************************
+
+
+Week Day-  Thursday
+Cycle Frequency on  Thursday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  94.85 kw
+Cycle General Start Time- 0:45
+Cycle General End Time  - 0:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  94.85 kw
+Cycle Average Minimum Value-  94.85 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  606.2 kw
+Cycle General Start Time- 4:45
+Cycle General End Time  - 6:0
+Cycle Median Duration-   90.0 mins
+Cycle Average Duration-  90.0 mins
+Cycle Average Maximum Value-  108.03 kw
+Cycle Average Minimum Value-  94.98 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  201.6 kw
+Cycle General Start Time- 7:0
+Cycle General End Time  - 7:15
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  101.63 kw
+Cycle Average Minimum Value-  99.97 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  100.35 kw
+Cycle General Start Time- 8:15
+Cycle General End Time  - 8:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.35 kw
+Cycle Average Minimum Value-  100.35 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  205.95 kw
+Cycle General Start Time- 8:45
+Cycle General End Time  - 9:0
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  105.73 kw
+Cycle Average Minimum Value-  100.22 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  109.82 kw
+Cycle General Start Time- 9:45
+Cycle General End Time  - 9:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  109.82 kw
+Cycle Average Minimum Value-  109.82 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  197.12 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 10:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  99.2 kw
+Cycle Average Minimum Value-  97.92 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  513.01 kw
+Cycle General Start Time- 12:45
+Cycle General End Time  - 13:45
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  108.29 kw
+Cycle Average Minimum Value-  96.51 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  510.46 kw
+Cycle General Start Time- 14:15
+Cycle General End Time  - 15:15
+Cycle Median Duration-   75.0 mins
+Cycle Average Duration-  75.0 mins
+Cycle Average Maximum Value-  106.88 kw
+Cycle Average Minimum Value-  98.94 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  404.09 kw
+Cycle General Start Time- 17:0
+Cycle General End Time  - 17:45
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  105.98 kw
+Cycle Average Minimum Value-  98.3 kw
+***************************************************
+
+
+Week Day-  Friday
+Cycle Frequency on  Friday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  95.62 kw
+Cycle General Start Time- 3:15
+Cycle General End Time  - 3:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.62 kw
+Cycle Average Minimum Value-  95.62 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  101.63 kw
+Cycle General Start Time- 6:45
+Cycle General End Time  - 6:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  101.63 kw
+Cycle Average Minimum Value-  101.63 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  202.24 kw
+Cycle General Start Time- 7:15
+Cycle General End Time  - 7:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  102.14 kw
+Cycle Average Minimum Value-  100.09 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  100.48 kw
+Cycle General Start Time- 8:15
+Cycle General End Time  - 8:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.48 kw
+Cycle Average Minimum Value-  100.48 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  103.04 kw
+Cycle General Start Time- 10:45
+Cycle General End Time  - 10:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  103.04 kw
+Cycle Average Minimum Value-  103.04 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  201.73 kw
+Cycle General Start Time- 11:15
+Cycle General End Time  - 11:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  104.96 kw
+Cycle Average Minimum Value-  96.77 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  426.88 kw
+Cycle General Start Time- 14:45
+Cycle General End Time  - 15:30
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  112.77 kw
+Cycle Average Minimum Value-  101.25 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  95.23 kw
+Cycle General Start Time- 19:30
+Cycle General End Time  - 19:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.23 kw
+Cycle Average Minimum Value-  95.23 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  98.05 kw
+Cycle General Start Time- 22:0
+Cycle General End Time  - 22:0
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.05 kw
+Cycle Average Minimum Value-  98.05 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  95.74 kw
+Cycle General Start Time- 23:30
+Cycle General End Time  - 23:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.74 kw
+Cycle Average Minimum Value-  95.74 kw
+***************************************************
+
+
+Week Day-  Saturday
+Cycle Frequency on  Saturday -  1 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  97.54 kw
+Cycle General Start Time- 5:45
+Cycle General End Time  - 5:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  97.54 kw
+Cycle Average Minimum Value-  97.54 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  196.22 kw
+Cycle General Start Time- 6:15
+Cycle General End Time  - 6:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  99.33 kw
+Cycle Average Minimum Value-  96.9 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  99.33 kw
+Cycle General Start Time- 8:30
+Cycle General End Time  - 8:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  99.33 kw
+Cycle Average Minimum Value-  99.33 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  102.66 kw
+Cycle General Start Time- 9:15
+Cycle General End Time  - 9:15
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  102.66 kw
+Cycle Average Minimum Value-  102.66 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  98.18 kw
+Cycle General Start Time- 9:45
+Cycle General End Time  - 9:45
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.18 kw
+Cycle Average Minimum Value-  98.18 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  196.73 kw
+Cycle General Start Time- 10:15
+Cycle General End Time  - 10:30
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  100.09 kw
+Cycle Average Minimum Value-  96.64 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  205.82 kw
+Cycle General Start Time- 12:30
+Cycle General End Time  - 12:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  108.93 kw
+Cycle Average Minimum Value-  96.9 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  393.6 kw
+Cycle General Start Time- 13:45
+Cycle General End Time  - 14:30
+Cycle Median Duration-   60.0 mins
+Cycle Average Duration-  60.0 mins
+Cycle Average Maximum Value-  102.14 kw
+Cycle Average Minimum Value-  94.98 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  96.38 kw
+Cycle General Start Time- 16:30
+Cycle General End Time  - 16:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  96.38 kw
+Cycle Average Minimum Value-  96.38 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  95.36 kw
+Cycle General Start Time- 20:30
+Cycle General End Time  - 20:30
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.36 kw
+Cycle Average Minimum Value-  95.36 kw
+***************************************************
+
+
+Week Day-  Sunday
+Cycle Frequency on  Sunday -  2 days
+
+CYCLE No.-  1
+Cycle Average Energy Consumption-  145.53 kw
+Cycle General Start Time- 5:7
+Cycle General End Time  - 5:15
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  97.34 kw
+Cycle Average Minimum Value-  96.64 kw
+
+CYCLE No.-  2
+Cycle Average Energy Consumption-  100.61 kw
+Cycle General Start Time- 6:37
+Cycle General End Time  - 6:37
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  100.61 kw
+Cycle Average Minimum Value-  100.61 kw
+
+CYCLE No.-  3
+Cycle Average Energy Consumption-  97.98 kw
+Cycle General Start Time- 10:7
+Cycle General End Time  - 10:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  97.98 kw
+Cycle Average Minimum Value-  97.98 kw
+
+CYCLE No.-  4
+Cycle Average Energy Consumption-  98.81 kw
+Cycle General Start Time- 10:37
+Cycle General End Time  - 10:37
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.81 kw
+Cycle Average Minimum Value-  98.81 kw
+
+CYCLE No.-  5
+Cycle Average Energy Consumption-  95.04 kw
+Cycle General Start Time- 12:22
+Cycle General End Time  - 12:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.04 kw
+Cycle Average Minimum Value-  95.04 kw
+
+CYCLE No.-  6
+Cycle Average Energy Consumption-  147.39 kw
+Cycle General Start Time- 13:22
+Cycle General End Time  - 13:30
+Cycle Median Duration-   22.5 mins
+Cycle Average Duration-  22.5 mins
+Cycle Average Maximum Value-  99.9 kw
+Cycle Average Minimum Value-  97.92 kw
+
+CYCLE No.-  7
+Cycle Average Energy Consumption-  246.01 kw
+Cycle General Start Time- 15:22
+Cycle General End Time  - 15:45
+Cycle Median Duration-   37.5 mins
+Cycle Average Duration-  37.5 mins
+Cycle Average Maximum Value-  99.2 kw
+Cycle Average Minimum Value-  96.83 kw
+
+CYCLE No.-  8
+Cycle Average Energy Consumption-  98.24 kw
+Cycle General Start Time- 17:7
+Cycle General End Time  - 17:7
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  98.24 kw
+Cycle Average Minimum Value-  98.24 kw
+
+CYCLE No.-  9
+Cycle Average Energy Consumption-  197.18 kw
+Cycle General Start Time- 18:30
+Cycle General End Time  - 18:45
+Cycle Median Duration-   30.0 mins
+Cycle Average Duration-  30.0 mins
+Cycle Average Maximum Value-  99.97 kw
+Cycle Average Minimum Value-  97.47 kw
+
+CYCLE No.-  10
+Cycle Average Energy Consumption-  95.87 kw
+Cycle General Start Time- 22:22
+Cycle General End Time  - 22:22
+Cycle Median Duration-   15.0 mins
+Cycle Average Duration-  15.0 mins
+Cycle Average Maximum Value-  95.87 kw
+Cycle Average Minimum Value-  95.87 kw
+***************************************************
+
+
+-------------------------------------------------------------------------
